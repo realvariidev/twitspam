@@ -1,4 +1,4 @@
 # TwitSpam
-Twitter spamming bot developed by @variidev
+Twitter spamming bot developed by @variouz
 
-**Releases in 4 months**
+**Release date unknown.**
